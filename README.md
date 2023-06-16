@@ -1,0 +1,2 @@
+# CDN
+images CDN
