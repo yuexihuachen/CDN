@@ -1,3 +1,3 @@
 function name() {
-console.log("index")
+console.log("d2.js")
 }
