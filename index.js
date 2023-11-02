@@ -1,3 +1,3 @@
 function name(){
-console.log("main")
-}
+console.log("main.js")
+
