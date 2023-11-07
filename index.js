@@ -1,3 +1,4 @@
-function name(){
-console.log("main.js")
 
+function name() {
+console.log("develop.js")
+}
